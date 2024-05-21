@@ -1,26 +1,53 @@
-Privacy Policy for Issb Preparation Material
-
-Last Updated: 22 May 2024
-
-Issb Preparation Material ("us", "we", or "our") operates the Issb Preparation Material mobile application (hereinafter referred to as the "App").
-
-This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our App and the choices you have associated with that information.
-
-Information Collection and Use
-The Issb Preparation Material App does not collect any personal information from its users. However, please note that third-party services such as AdMob, which is integrated into the App for displaying advertisements, may collect certain information as described in their respective privacy policies.
-
-AdMob
-The Issb Preparation Material App uses AdMob, a mobile advertising service provided by Google LLC ("AdMob"). AdMob may collect certain information about your device, such as your advertising identifier (e.g., Google Advertising ID), IP address, and device type, for the purpose of serving personalized ads and analyzing ad performance.
-
-Please refer to Google's Privacy Policy for more information on how Google collects, uses, and protects your information when you use AdMob: Google Privacy Policy
-
-Opt-out
-You may opt out of personalized advertising by adjusting your device settings. For Android devices, you can do this by accessing the "Ads" section within the "Settings" app and enabling the "Opt out of Ads Personalization" option.
-
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [contact@zakriakhan.com].
-
-By using the Issb Preparation Material App, you consent to the collection and use of information in accordance with this Privacy Policy.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Issb Preparation Material</h1>
+    <p>Last Updated: 22 May 2024</p>
+    <p>Issb Preparation Material ("us", "we", or "our") operates the Issb Preparation Material mobile application (hereinafter referred to as the "App").</p>
+    <p>This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our App and the choices you have associated with that information.</p>
+    
+    <h2>Information Collection and Use</h2>
+    <p>The Issb Preparation Material App does not collect any personal information from its users. However, please note that third-party services such as AdMob, which is integrated into the App for displaying advertisements, may collect certain information as described in their respective privacy policies.</p>
+    
+    <h2>AdMob</h2>
+    <p>The Issb Preparation Material App uses AdMob, a mobile advertising service provided by Google LLC ("AdMob"). AdMob may collect certain information about your device, such as your advertising identifier (e.g., Google Advertising ID), IP address, and device type, for the purpose of serving personalized ads and analyzing ad performance.</p>
+    <p>Please refer to <a href="https://policies.google.com/privacy">Google's Privacy Policy</a> for more information on how Google collects, uses, and protects your information when you use AdMob.</p>
+    
+    <h2>Opt-out</h2>
+    <p>You may opt out of personalized advertising by adjusting your device settings. For Android devices, you can do this by accessing the "Ads" section within the "Settings" app and enabling the "Opt out of Ads Personalization" option.</p>
+    
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+    
+    <h2>Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href="mailto:contact@zakriakhan.com">contact@zakriakhan.com</a>.</p>
+    
+    <p>By using the Issb Preparation Material App, you consent to the collection and use of information in accordance with this Privacy Policy.</p>
+</body>
+</html>
